@@ -55,7 +55,7 @@ jobs:
       - name: Run E2E Tests
         run: npm run test:e2e
         env:
-          FLAGSMITH_KEY: ${{ secrets.FLAGSMITH_KEY }}
+          FLAGSMITH_KEY: "ser.5pn8oadMWEhfK9dktuL4uK"
       - uses: actions/upload-artifact@v3
         if: always()
         with:
