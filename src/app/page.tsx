@@ -32,7 +32,7 @@ export default async function Home() {
           <div id="navigation">
             <ul>
               <li>
-                <a href="create1.html">NEW CUSTOMER</a>
+                <a href="create1.html">LAGAIROG</a>
               </li>
               <li>
                 <a href="login.html">LOGIN</a>
