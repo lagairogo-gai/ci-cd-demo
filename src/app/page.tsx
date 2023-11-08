@@ -20,7 +20,7 @@ export default async function Home() {
         <div id="top_links">
           <div id="header">
             <h1>
-              Online Banking System
+              Online Banking Systems
               <span className="style1" />
             </h1>
             <h1>
